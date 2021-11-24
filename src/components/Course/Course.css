@@ -1,0 +1,15 @@
+.courseContainer:hover {
+  transform: translateY(-2px);
+  transition: all 0.1s ease-in-out;
+}
+.color {
+  color: #e59819;
+  font-size: 14px;
+}
+.far,
+.fab {
+  margin: 0;
+}
+button:active {
+  transform: scale(0.98);
+}
